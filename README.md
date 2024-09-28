@@ -48,4 +48,5 @@ No software is perfect.  This was slapped together in a day.  I would imaging th
 
 Also - Remember that double quotations will crash the injector.  It sounds like a car! :(  
 **Use single quotes instead of double quotes.  Double quotes will cause the parser to choke.**
-**The parser will try to convert any double quotes to single quotes in your rule.  If you need something contained in double quotes between the single quotation marks then use the HTML code `&quot;`!**
+
+**The parser will try to convert any double quotes to single quotes in your rule.**  If you need something contained in double quotes between the single quotation marks then use the HTML code `&quot;`!
