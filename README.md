@@ -49,6 +49,6 @@ Check out the page under the inspector.  You can see the `<div>` that was added.
 No software is perfect.  This was slapped together in a day.  I would imaging there are use cases that it cannot handle and issues that will cause it to crash.  It is probably a good idea to backup your data before rendering with this plugin.  
 
 Also - Remember that double quotations will crash the injector.  It sounds like a car! :(  
-**Use single quotes instead of double quotes.  Double quotes will cause the parser to choke.**
+**Use single quotes instead of double quotes.  Double quotes will muck everything up.**
 
-**The parser will try to convert any double quotes to single quotes in your rule.**  If you need something contained in double quotes between the single quotation marks then use the HTML code `&quot;`!
+If you need something contained in double quotes between the single quotation marks then use the HTML code `&quot;`!
