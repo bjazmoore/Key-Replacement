@@ -5,7 +5,7 @@ Key Replacement Plugin is a Publii Plugin that replaces specific keys with desig
 
 ## Download
 
-Download the plugin in zip file format: Key_Replacement.zip
+Download the plugin in zip file format: [Key_Replacement.zip](https://github.com/bjazmoore/Key-Replacement/releases/download/0.1.0/Key.Replacement.zip)
 
 ## Installing
 
