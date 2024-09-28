@@ -3,6 +3,8 @@ Version 0.1.1
 
 Key Replacement Plugin is a Publii Plugin that replaces specific keys with designated text strings in the HTML output form Publii.
 
+**Note:** This plugin DOES NOT replace or even enable much of the functionality of the commercially (at a very fair price) Smart Replacer plugin available from the folks who make Publii possible.  I recommend their plugin for anything that involves more than a simple AAA -> BBB type replacement.  Get it here: [Smart Replacer Plugin](https://marketplace.getpublii.com/plugins/smart-replacer/)
+
 ## Download
 
 Download the plugin in zip file format: [Key_Replacement.zip](https://github.com/bjazmoore/Key-Replacement/releases/download/0.1.0/Key.Replacement.zip)
