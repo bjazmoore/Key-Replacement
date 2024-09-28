@@ -1,0 +1,44 @@
+{
+  "name": "Key Replacement",
+  "description": "Replaces specified keys with custom HTML/text in your site content.",
+  "license": "GPL-3.0",
+  "author": "Your Name",
+  "version": "1.0.0",
+  "scope": "site",
+  "minimumPubliiVersion": "0.39.0",
+  "usePluginSettingsView": false,
+  "config": [
+    {
+      "name": "rules",
+      "label": "Replacement Rules",
+      "group": "Rules",
+      "type": "repeater",
+      "value": [],
+      "maxCount": -1,
+      "translations": {
+        "addItem": "Add Rule",
+        "removeItem": "Remove Rule"
+      },
+      "hasEmptyState": true,
+      "hideLabels": false,
+      "structure": [
+        {
+          "name": "key",
+          "label": "Key",
+          "type": "text",
+          "placeholder": "",
+          "value": "",
+          "size": 40
+        },
+        {
+          "name": "replacement",
+          "label": "Replacement",
+          "value": "",
+          "type": "textarea",
+          "rows": 5,
+          "cols": 100
+        }
+      ]
+    }
+  ]
+}
